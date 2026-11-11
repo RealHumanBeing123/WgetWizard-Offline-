@@ -1,5 +1,5 @@
 # Wget Wizard (Offline)
-Wget Wizard but offline version. This singular HTML file is literally everything. That's it.
+This is [Wget Wizard](https://www.whatismybrowser.com/developers/tools/wget-wizard/) but offline. This singular HTML file is literally everything. That's it.
 
 It has every option from the original: URL, entire directory, complete mirror, crawl depth, URLs-in-file, file type filters, metadata-file skipping, if-exists behavior, output directory, resume, robots/cert/cache toggles, retries, wait and random wait, fake user agents, referrer, logging, verbosity and short/long syntax. The command updates live as you change options, so there’s no submit step.
 
